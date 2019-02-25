@@ -1,3 +1,9 @@
+1) git clone~ 으로 다운받기
+2) chmod +x finduser.sh  # 권한 추가
+3) ./finduser.sh  # 실행
+4) 검색하고자 하는 아이디 입력
+
+
 # FindUser v1.2
 # Author: @Hak9
 # https://github.com/xHak9x/finduser
